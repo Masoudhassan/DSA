@@ -1,0 +1,1 @@
+"""for sorting algorithms this big O is known as linearithmic"""

@@ -3,3 +3,4 @@ def print_items(n):
      for j in range(n):
         print(i,j)    
 print_items (10)
+"""loop within a loop"""
